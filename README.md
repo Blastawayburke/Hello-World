@@ -1,2 +1,2 @@
 # Hello-World
-Hello, my name is Patrick Burke, and I am an aspiring web-developer. I graduated from Salford University with a Bachelor's Degree in Aeronautical Engineering (BEng, Hons), and a Master's Degree in Aerospace Engineering (Msc). I am currently teaching myself the ins and outs of Web-Development, with the help of Free Code Camp, in the hope that these skills will open new avenues for my career.
+Content for non-telepathic humans
